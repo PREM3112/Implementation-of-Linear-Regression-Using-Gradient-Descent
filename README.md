@@ -17,11 +17,13 @@ step 3.Perform iterations og gradient steps with learning rate.
 step 4.Plot the Cost function using Gradient Descent and generate the required graph.
 
 ## Program:
-```
 
+/*
 Program to implement the linear regression using gradient descent.
 Developed by: PREM R
 RegisterNumber: 212223240124
+/*
+```
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler
