@@ -20,7 +20,9 @@ step 4.Plot the Cost function using Gradient Descent and generate the required g
 
 /*
 Program to implement the linear regression using gradient descent.
+
 Developed by: PREM R
+
 RegisterNumber: 212223240124
 */
 ```
